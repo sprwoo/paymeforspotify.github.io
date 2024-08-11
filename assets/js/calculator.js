@@ -7,7 +7,7 @@ const year = d.getFullYear();
 const calvin = [10, 2024];
 const omar = [4, 2024];
 const web = [1, 2024];
-const michael = [6, 2024];
+const michael = [12, 2024];
 const yeram = [10, 2023];
 
 
