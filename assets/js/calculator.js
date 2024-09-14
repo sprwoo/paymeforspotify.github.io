@@ -8,7 +8,7 @@ const calvin = [10, 2024];
 const omar = [9, 2024];
 const web = [1, 2024];
 const michael = [12, 2024];
-const yeram = [10, 2023];
+const yeram = [1, 2025];
 
 
 function calculate(person) {
